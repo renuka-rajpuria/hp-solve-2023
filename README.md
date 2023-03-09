@@ -22,3 +22,6 @@ Only those candidates can participate who:
 2. Students must submit the summary in a pdf word document/ppt only
 3. After 1st round, shortlisted students will be communicated via email for the details of round 2
 4. For any query related to the contest, you may refer to the FAQ section of the contest page
+
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/91603618/223951326-d69b2519-38ad-44f3-a843-266e23cc96c1.png">
+
